@@ -1119,3 +1119,32 @@ section {
 
 	color: #fff;
 }
+
+@media screen and (min-width: 1280px) {
+	.all {
+		width: 160px;
+		padding: 13.2px 15px;
+
+		border: none;
+		outline: none;
+
+		background: #fff;
+		color: #6e747a;
+	}
+
+	.shop-link {
+		padding-right: 20px;
+	}
+
+	.main {
+		background: #3f4246;
+		height: 119px;
+	}
+
+	.inner-sidebar {
+		display: flex;
+		justify-content: space-between;
+		padding: 15.5px 22px;
+		margin-bottom: 1px;
+	}
+}
