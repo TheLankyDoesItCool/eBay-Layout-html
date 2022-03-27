@@ -121,6 +121,8 @@ input {
 	font-size: 13px;
 	padding: 13px 20px;
 
+	border: none;
+
 	border-radius: 5px 0 0 5px;
 }
 
@@ -129,6 +131,7 @@ input {
 	padding: 13.2px 20px;
 
 	border: none;
+	outline: none;
 
 	background: #fff;
 	color: #6e747a;
@@ -333,7 +336,7 @@ section {
 .inner-btn {
 	background: #fff;
 	width: 130px;
-	padding: 16px;
+	padding: 17px;
 
 	position: relative;
 
